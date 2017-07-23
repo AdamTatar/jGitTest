@@ -5,3 +5,5 @@ public static void main(String[] args) {
 	
 }
 }
+// podoba mi się.
+// A.T.
